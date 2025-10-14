@@ -1,0 +1,11 @@
+data_dir: "data/raw/"
+db_url: "mssql+pyodbc://@localhost\\SQLEXPRESS/app?driver=ODBC+Driver+17+for+SQL+Server"
+batch_size: 10000
+categories_file: "product_categories_renaming.xlsx"
+tables:
+  transactions: "rd_transactions"
+  transactions_prods: "rd_transactions_prods"
+  events_add_to_cart: "rd_events_add_to_cart"
+  products: "rd_prods"
+  customers: "rd_customers"
+  sessions: "rd_sessions"
