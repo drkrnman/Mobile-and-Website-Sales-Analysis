@@ -9,3 +9,14 @@ tables:
   products: "rd_prods"
   customers: "rd_customers"
   sessions: "rd_sessions"
+colors:
+  white: "#ffffff"
+  black: "#000000"
+  accent: "#ecf573"
+control_width_chars: 28
+metric_labels:
+  1: "Average order value"
+  2: "Number of items per order"
+  3: "Number of clicks before booking"
+  4: "Average delivery cost"
+  5: "Number of unique products"
