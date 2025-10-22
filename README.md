@@ -10,7 +10,7 @@ A project for analyzing sales through a mobile application and website.
 - `scripts/` — scripts for ETL and tests
 - `config.yaml` - DB connection config 
 - `stat_tests.py`: GUI entry point
-- `stattest.py`: existing t-test SQL definitions and DB engine
+- `queries.py`:  SQL queries for stat tests
 - `fonts/`: optional local fonts
 
 ### Requirements
