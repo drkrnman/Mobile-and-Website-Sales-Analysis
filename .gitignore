@@ -63,17 +63,38 @@ venv.bak/
 .vscode/
 .idea/
 *.iml
+*.swp
+*.swo
 
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Logs
 *.log
-*.txt
 
-# Local config
-config.yaml
+# Local config files 
+config.local.yaml
 
 # Fonts and assets cache
 fonts/*.zip
+
+# Docker database files
+docker_data/*.bak
+docker_data/*.mdf
+docker_data/*.ldf
+docker_data/*.sql
+
+# Data files 
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+data/processed/*.csv
+data/processed/*.xlsx
+data/processed/*.json
+
+# Important: DON'T ignore these files
+!requirements.txt
+!docker_data/README.md
+!README.md
