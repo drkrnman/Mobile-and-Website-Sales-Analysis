@@ -36,3 +36,10 @@ A project for analyzing sales through a mobile application and website.
 - Power BI Dashboard: Open files in `/dashboard/` with Power BI Desktop.
 - Excel tools: Open `What-if analysis.xlsm`.
 - GUI stats tool : `python stat_tests.py`
+
+## Data sourse link
+https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset](https://www.kaggle.com/datasets/bytadit/transactional-ecommerce/data
+
+## Authors
+Darya Korenman
+Ilia Usovich
