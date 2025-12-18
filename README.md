@@ -41,5 +41,5 @@ A project for analyzing sales through a mobile application and website.
 https://www.kaggle.com/datasets/bytadit/transactional-ecommerce/data
 
 ## Authors
-Darya Korenman
-Ilia Usovich
+- Darya Korenman
+- Ilia Usovich
